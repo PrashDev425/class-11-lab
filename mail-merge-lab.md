@@ -83,16 +83,7 @@ Type the following letter in Word and insert merge fields:
 1. **Main Document** (the letter or email template)
 2. **Data Source** (list of names, addresses, etc., usually in CSV or Excel)
 
-**Q3. How do you insert a field like First Name in Word?**
-**A:** Place the cursor where you want it → go to **Mailings → Insert Merge Field → FirstName**.
-
-**Q4. Can Mail Merge be used for email? If yes, how?**
-**A:** Yes. Choose **E-Mail Messages** in Mail Merge. Then use **Finish & Merge → Send E-Mail Messages**, select the **Email** field, type a subject, and send via Outlook.
-
 ---
-
-## Deliverables
 
 * `Parents.csv` (data source)
 * `ParentInvitations.docx` (merged letters)
-* Written answers to the questions
