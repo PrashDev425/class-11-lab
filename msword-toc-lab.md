@@ -15,33 +15,21 @@
 ## Steps
 
 ```
-write your self
-```
-
-## Example  
-
-If you have:  
-- Page 1 → Cover Page (no number)  
-- Page 2 → TOC (Roman numeral i)  
-- Page 3 onwards → Chapters (starting from 1)  
-
-You can set:  
-- Section 1 → No page number (Cover).  
-- Section 2 → Page numbers in **i, ii, iii** format.  
-- Section 3 → Page numbers in **1, 2, 3** format.  
+write yourself
+``` 
 
 ---
 
 ## Lab Task  
 
-**Q1.** Create a Word file with:  
-- Cover Page (no number)  
-- Table of Contents (page i)  
-- Chapter 1 (starts from page 1)  
+- Create a Word file with:  
+  - Cover Page (no number)  
+  - Table of Contents (page i)  
+  - Chapter 1 (starts from page 1)  
 
-**Q2.** Apply heading styles and generate a TOC.  
+- Apply heading styles and generate a TOC.  
 
-**Q3.** Insert page numbers correctly as per the format above.  
+- Insert page numbers correctly as per the format above.  
 
 ---
 
